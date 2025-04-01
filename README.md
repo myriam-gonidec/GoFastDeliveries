@@ -20,7 +20,7 @@ GoFastDeliveries, a B2B company, recently established in Chicago, is experiencin
 - Possible to reuse for test & validation tracking before go-live
 ![image](https://github.com/user-attachments/assets/4e3f9f9f-0ddd-4818-9b13-799d4754d90f)
 #### Project GANTT & Effort estimate
-![image](https://github.com/user-attachments/assets/49f8b264-0368-4ff6-a3ec-4d1b7902a92f)
+![image](https://github.com/user-attachments/assets/f5131ca5-3036-4538-b5f7-6e73b84dc7b4)
 #### Operating mode documentation
 To be completed
 #### Training video for new vizualization

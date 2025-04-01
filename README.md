@@ -19,8 +19,8 @@ GoFastDeliveries, a B2B company, recently established in Chicago, is experiencin
 - KPI description, calculation formula, data required
 - Possible to reuse for test & validation tracking before go-live
 ![image](https://github.com/user-attachments/assets/4e3f9f9f-0ddd-4818-9b13-799d4754d90f)
-#### Project GANTT
-![image](https://github.com/user-attachments/assets/c5fcf556-3b64-49d4-a29a-7fb99b52d69d)
+#### Project GANTT & Effort estimate
+![image](https://github.com/user-attachments/assets/49f8b264-0368-4ff6-a3ec-4d1b7902a92f)
 #### Operating mode documentation
 To be completed
 #### Training video for new vizualization

@@ -14,13 +14,16 @@ GoFastDeliveries, a B2B company, recently established in Chicago, is experiencin
 - Providing operating mode documentation for end-users, and video
 
 ## For further details
+#### Project approach
+![image](https://github.com/user-attachments/assets/2fc4d30d-7ed3-457e-afd6-4de4bc98797e)
+#### Project GANTT & Effort estimate
+![image](https://github.com/user-attachments/assets/4e3e7773-c0e1-4588-aea6-d063ca81465f)
 #### Business requirements tracking: 1 unique Excel for all project phases
 - User Story to define business requirements
 - KPI description, calculation formula, data required
 - Possible to reuse for test & validation tracking before go-live
 ![image](https://github.com/user-attachments/assets/4e3f9f9f-0ddd-4818-9b13-799d4754d90f)
-#### Project GANTT & Effort estimate
-![image](https://github.com/user-attachments/assets/f5131ca5-3036-4538-b5f7-6e73b84dc7b4)
+
 #### Operating mode documentation
 To be completed
 #### Training video for new vizualization

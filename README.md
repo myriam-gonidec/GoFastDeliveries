@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/231c9be3-31d7-4cd5-ab57-8565800e2d35)
 
 ## Project description
-GoFastDeliveries, a B2B company, recently established in Chicago, is experiencing rapid growth. Customer deliveries are the top priority, while minimizing risks like inventory aging, and seizing opportunities like purchasing when cash flow allows
+GoFastDeliveries, a B2B FoodTech company, recently established in Chicago, is experiencing rapid growth. Customer deliveries are the top priority, while minimizing risks like inventory aging, and seizing opportunities like purchasing when cash flow allows
 
 ## Tool
 - PowerBI, PowerQuery, DAX
